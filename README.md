@@ -22,7 +22,7 @@
 - 😄 Pronouns: he/him/his
 - :argentina: I was born and live in Buenos Aires, Argentina. I am also spanish :es:
 - :earth_americas: I like travelling and new places
-- I _will_ [open the pod bay doors](https://www.youtube.com/watch?v=qDrDUmuUBTo)
+- :warning: I _will_ [open the pod bay doors](https://www.youtube.com/watch?v=qDrDUmuUBTo)
 ### Contact me
 - ⚡ I'm available for hire, full-time
 - 💬	Reach me at [LinkedIn](https://www.linkedin.com/in/francobatta/)
