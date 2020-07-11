@@ -13,7 +13,7 @@
     - [React](https://reactjs.org/) + [Redux](https://react-redux.js.org/)
   - **RDBMS (SQL)**
   - **[Docker](https://www.docker.com/)**, [AWS](https://aws.amazon.com/es/), [Firebase](https://firebase.google.com/), [Heroku](https://www.heroku.com/)
-- I’m currently learning [Elixir](https://elixir-lang.org/) and [React](https://reactjs.org/)
+- Currently learning [Elixir](https://elixir-lang.org/) and [React](https://reactjs.org/)
 - Planning to learn [Scala](https://www.scala-lang.org/), [akka](https://akka.io/), concurrency, [GraphQL](https://graphql.org/), noSQL, and many more!
 ## :office: Experience
 - Various projects at college
@@ -22,7 +22,7 @@
 - [Nano shopping site for non-profit](https://librosoma.web.app)
 ## 😄 Personal stuff
 - :microphone: Pronouns: he/him/his
-- :argentina: I was born and live in Buenos Aires, Argentina. I am also spanish :es:
+- :argentina: Born and live in Buenos Aires, Argentina. I am also spanish :es:
 - :earth_americas: I like travelling and new places
 - :warning: I _will_ [open the pod bay doors](https://www.youtube.com/watch?v=qDrDUmuUBTo)
 ## 📫 Contact me
