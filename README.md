@@ -11,7 +11,8 @@
 - Relational Database Management Systems (SQL) using **SQL Server, MySQL**
 - noSQL using **MongoDB, Redis**  
 - Deploys using **Docker, AWS, Firebase, Heroku**
-- Currently learning **Elixir**
+---
+- Currently learning **Elixir**💧
 - Planning to learn **Scala, akka, concurrency, GraphQL, noSQL**
 ## :office: Experience
 - Various projects at college
@@ -21,7 +22,7 @@
 ## 😄 Personal stuff
 - :microphone: Pronouns: he/him/his
 - :argentina: Born and live in Buenos Aires, Argentina. I am also spanish :es:
-- :earth_americas: I like travelling and new places
+- 🌅 I like travelling and new places
 - :warning: I _will_ [open the pod bay doors](https://www.youtube.com/watch?v=qDrDUmuUBTo)
 ## 📫 Contact me
 - LinkedIn - [Franco Battaglia](https://www.linkedin.com/in/francobatta/)
