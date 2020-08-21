@@ -15,6 +15,7 @@
 - Currently learning **Elixir**💧
 - Planning to learn **Scala, akka, concurrency, GraphQL, noSQL**
 ## :office: Experience
+- Currently working as a Salesforce developer
 - Various projects at college
 - Educational Research and Innovation Center, former member at college
 - Working on my graduate project
