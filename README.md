@@ -3,22 +3,22 @@
 > I :heart: coding and software development in general. I am especially interested in backend-related stuff. I love learning and travelling!
 
 ## :book: Studies and tech
-- Graduating in 2020 (Q2 2021 if COVID finally screws everything at my college) with a systems engineering degree
+- Graduating in Q2 2021, with a systems engineering degree
 - Coding using **OO and FP**
 - Development of **REST APIs**
 - Backend development using **Java 8, Node.js**
 - Frontend development using **React + Redux**
 - Relational Database Management Systems (SQL) using **SQL Server, MySQL**
-- noSQL using **MongoDB, Redis**  
+- noSQL using **MongoDB, Redis**
 - Deploys using **Docker, AWS, Firebase, Heroku**
 ---
-- Currently learning **Elixir**💧
-- Planning to learn **Scala, akka, concurrency, GraphQL, noSQL**
+- Currently learning **Azure, Kubernetes**
+- Planning to learn **Kubernetes, TypeScript, monitoring, concurrency, GraphQL, noSQL**
 ## :office: Experience
-- Currently working as a Salesforce developer
+- Currently working as a Software Developer (JavaScript, Node.js, React.js) @ [Producteca](https://github.com/Parsimotion)
 - Various projects at college
 - Educational Research and Innovation Center, former member at college
-- Working on my graduate project
+- Working on my graduate project (gamification + project management)
 - [Nano shopping site for non-profit](https://librosoma.web.app)
 ## 😄 Personal stuff
 - :microphone: Pronouns: he/him/his
@@ -28,4 +28,3 @@
 ## 📫 Contact me
 - LinkedIn - [Franco Battaglia](https://www.linkedin.com/in/francobatta/)
 - Let's chat💬! Send me an email: francobatta@outlook.com
-- I'm available for hire, full-time⚡
