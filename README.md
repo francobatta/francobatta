@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">TL;DR: I ❤️ coding and software development in general. I am especially interested in backend stuff. I love learning and travelling!</h3>
 
-- 🔭 I’m currently working at [Producteca](https://www.producteca.com/) as a Software Developer
+- 🔭 I’m currently working at [Despegar](https://www.despegar.com/) as a Software Developer
 
 - 🌱 I’m currently learning **Scala**
 
-- 📝 I seldom write articles on [collected notes](https://collectednotes.com/francobatta)
+- 📝 I sometimes write articles on [collected notes](https://collectednotes.com/francobatta)
 
 - 🧙‍♂️ Programming is my hobby too. I hope to, one day, travel the world ✈️
 
