@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">TL;DR: I ❤️ coding and software development in general. I am especially interested in backend stuff. I love learning and travelling!</h3>
 
-- 🔭 I’m currently working at [Despegar](https://www.despegar.com/) as a Software Engineer
-
-- 🌱 I’m currently learning **Scala Cats, ZIO**
+- 🔭 I’m currently working at [Clip](https://www.clip.mx/) as a Backend Software Engineer
 
 - 📝 I sometimes write articles on [collected notes](https://collectednotes.com/francobatta)
 
